@@ -1,3 +1,6 @@
+// TC: O(logn)
+// SC: O(1)
+
 class Problem1 {
     private static int findMissingInteger(int arr[]) {
         if (arr == null || arr.length == 0)
